@@ -1,0 +1,9 @@
+**1. Three types of software Architecture**: The operational architecture specifies how the AI areas are connected to determinate if a design achieves its goals. The systems architecture it is use to determinate if a system meets good software engineering principles, especially modularity and extensibility and the technical architecture (implementation details) is use to determinate if a design is using the right algorithms.
+**2.Principles of software engineering**: Abstraction which is focused on thinking organization of intelligence. Modularity which promotes to the designers to think in object-oriented programming. Anticipation of change with incrementality is the capacity to add more updates without change the main code. Generality is the ability to use the same code in other applications.
+**3. biologically-inspired metaphor**: layer interaction which is persona and teaming, deliberative layer is to reasoning over symbols and the reactive layer relates to skills and responses.
+**4. five attributes which influence computing**: primitives, perceptual ability, planning horizon, time scale and use of models
+**5.the autonomous capabilities consist in four primitives which are**: sense (input: sensor data, output: sensed information), plan (input: information, output: guidelines), act(input: information, output: actuator commands) and learn better chances to success 
+**6.Perceptual ability**: the perception to do something should be direct (respond to stimuli) or required recognition (requires conversion to symbol).  
+**7.Planning horizon**: planification about future and past and Time scale: helps to determine the asynchronous operation of software components.
+**8. World model**: separate the local world model(information only for a function) from the global world model(information processed first in a global model)
+
